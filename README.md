@@ -1,2 +1,2 @@
-# odinlite_6877_fhd_v1
-odinlite DeviceTree
+#   Odinlite_6877_fhd_v1
+Odinlite DeviceTree
