@@ -1,2 +1,2 @@
 #   Odinlite_6877_fhd_v1
-Odinlite DeviceTree
+Odinlite DeviceTree for build recovery
